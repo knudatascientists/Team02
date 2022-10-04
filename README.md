@@ -10,3 +10,6 @@
 ### 이혜진 : 
 
 ## 3.
+GitHub : https://github.com/knudatascientists/Team02/
+Notion : https://www.notion.so/6ea68706279b49079e58167fa8aee578?v=399e78d37c1c4deca211ec3f7c3431b2
+Slack : https://app.slack.com/client/T044ZDXRVTM/C045C5TLKK3
