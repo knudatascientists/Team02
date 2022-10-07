@@ -15,7 +15,7 @@
  - Notion : https://www.notion.so/6ea68706279b49079e58167fa8aee578?v=399e78d37c1c4deca211ec3f7c3431b2\
  - Slack : https://app.slack.com/client/T044ZDXRVTM/C045C5TLKK3
 
-### 4. 기타
+## 4. 기타
  - 데이터 출처
    - 제주도의 날짜 및 시간별 교통 및 도로구간 등 데이터
      - 데이콘 (https://dacon.io/competitions/official/235985/data)
